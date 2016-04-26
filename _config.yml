@@ -1,7 +1,7 @@
 name: Justanis
 favicon: null
-layout_spectrum: 0.766933391103521
-typography_spectrum: 0.7321737864986062
+layout_spectrum: 1
+typography_spectrum: 0.08097
 title: null
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.10042579309083521
+    - '#1632ff'
+    - '#de0008'
+    - '#fcc000'
+    - '#ffffff'
+    - '#919fff'
+  brandStrength: 0.5
   lightness: 0.739616121398285
   saturation: 0.17364839324727654
   rhythmicContrast: 0.02317981654778123

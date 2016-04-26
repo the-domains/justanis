@@ -2,6 +2,7 @@ name: Justanis
 favicon: null
 layout_spectrum: 0.766933391103521
 typography_spectrum: 0.7321737864986062
+title: null
 cta:
   domain: null
   bucket: null

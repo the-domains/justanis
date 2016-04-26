@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Justanis]]></title>
+        <description><![CDATA[Justanis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 14:43:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is why we play ]]></title>
+            <description><![CDATA[<article><h1>This is why we play </h1><p>Get the latest NBA basketball news, scores, stats, standings, fantasy games, and more from ESPN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1c0efd3b66c699d4427d3b4ceeb24d6470e966a.jpg"></article>]]></description>
+            <link>http://espn.go.com/nba/</link>
+            <guid isPermaLink="false">2a00d637-6f0f-4384-b1e1-12ec70716298</guid>
+            <pubDate>Tue, 26 Apr 2016 14:43:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
